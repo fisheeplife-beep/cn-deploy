@@ -19,6 +19,7 @@
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | [cn-deploy-agent-browser](https://github.com/fisheeplife-beep/cn-deploy-agent-browser) | CLI + Chrome doctor 已实测 |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [cn-deploy-openmausbot](https://github.com/fisheeplife-beep/cn-deploy-openmausbot) | CLI serve 已实测 |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | [cn-deploy-lightpanda](https://github.com/fisheeplife-beep/cn-deploy-lightpanda) | 二进制 1.0.0 + CDP + Puppeteer 已实测 |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | [cn-deploy-thinkrail](https://github.com/fisheeplife-beep/cn-deploy-thinkrail) | CLI stable 0.3.0 安装+host UI 已实测 |
 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | [cn-deploy-deskcommcrm](https://github.com/fisheeplife-beep/cn-deploy-deskcommcrm) | GHCR 探针已验证；VPS install 待有 Docker 的机器实测 |
 
 ## 原则

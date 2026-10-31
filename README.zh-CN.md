@@ -19,6 +19,8 @@
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | [cn-deploy-agent-browser](https://github.com/fisheeplife-beep/cn-deploy-agent-browser) | CLI + Chrome doctor 已实测 |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [cn-deploy-openmausbot](https://github.com/fisheeplife-beep/cn-deploy-openmausbot) | CLI serve 已实测 |
 
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | [cn-deploy-thinkrail](https://github.com/fisheeplife-beep/cn-deploy-thinkrail) | CLI stable 0.3.0 安装+host UI 已实测 |
+
 ## 原则
 
 1. 先实测再写步骤  
