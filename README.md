@@ -18,6 +18,7 @@
 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | [cn-deploy-paperclip](https://github.com/fisheeplife-beep/cn-deploy-paperclip) | CLI 已实测 |
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | [cn-deploy-agent-browser](https://github.com/fisheeplife-beep/cn-deploy-agent-browser) | CLI + Chrome doctor 已实测 |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [cn-deploy-openmausbot](https://github.com/fisheeplife-beep/cn-deploy-openmausbot) | CLI serve 已实测 |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | [cn-deploy-deskcommcrm](https://github.com/fisheeplife-beep/cn-deploy-deskcommcrm) | GHCR 探针已验证；VPS install 待有 Docker 的机器实测 |
 
 ## 原则
 
