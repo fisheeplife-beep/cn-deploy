@@ -22,6 +22,14 @@
 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | [cn-deploy-thinkrail](https://github.com/fisheeplife-beep/cn-deploy-thinkrail) | CLI stable 0.3.0 安装+host UI 已实测 |
 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | [cn-deploy-deskcommcrm](https://github.com/fisheeplife-beep/cn-deploy-deskcommcrm) | GHCR 探针已验证；VPS install 待有 Docker 的机器实测 |
 
+## AI短剧
+
+音频驱动口型 / 多人对话镜头等短剧相关配套：
+
+| 上游 | 配套仓 | 状态 |
+|------|--------|------|
+| [MeiGen-AI/MultiTalk](https://github.com/MeiGen-AI/MultiTalk) | [cn-deploy-multitalk](https://github.com/fisheeplife-beep/cn-deploy-multitalk) | 预检+浅克隆 layout 已实测；**GPU 推理 Not verified**（作者机无 NVIDIA） |
+
 ## 原则
 
 1. 先实测再写步骤  
