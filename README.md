@@ -24,12 +24,13 @@
 
 ## AI短剧
 
-音频驱动口型 / 长对白说话镜头 / 多人对话等短剧相关配套：
+音频驱动口型 / 长对白说话镜头 / 多人对话 / 成片后期修口型等短剧相关配套：
 
 | 上游 | 配套仓 | 状态 |
 |------|--------|------|
 | [MeiGen-AI/MultiTalk](https://github.com/MeiGen-AI/MultiTalk) | [cn-deploy-multitalk](https://github.com/fisheeplife-beep/cn-deploy-multitalk) | 预检+浅克隆 layout 已实测；**GPU 推理 Not verified**（作者机无 NVIDIA） |
 | [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) | [cn-deploy-infinitetalk](https://github.com/fisheeplife-beep/cn-deploy-infinitetalk) | 预检+浅克隆 layout 已实测；**GPU 推理 Not verified**（作者机无 NVIDIA） |
+| [bytedance/LatentSync](https://github.com/bytedance/LatentSync) | [cn-deploy-latentsync](https://github.com/fisheeplife-beep/cn-deploy-latentsync) | 预检+浅克隆 layout 已实测；**GPU 推理 Not verified**（作者机无 NVIDIA） |
 
 ## 原则
 
