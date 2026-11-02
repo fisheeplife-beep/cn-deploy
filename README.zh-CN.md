@@ -22,6 +22,7 @@
 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | [cn-deploy-thinkrail](https://github.com/fisheeplife-beep/cn-deploy-thinkrail) | CLI stable 0.3.0 安装+host UI 已实测 |
 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | [cn-deploy-deskcommcrm](https://github.com/fisheeplife-beep/cn-deploy-deskcommcrm) | GHCR 探针已验证；VPS install 待有 Docker 的机器实测 |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | [cn-deploy-firecrawl](https://github.com/fisheeplife-beep/cn-deploy-firecrawl) | GHCR pull + Compose 起栈 + readiness 已实测；**/v2/scrape 沙箱桥接未跑通** |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [cn-deploy-openclaw](https://github.com/fisheeplife-beep/cn-deploy-openclaw) | GHCR pull + 非交互 onboard + Compose 起 Gateway + healthz/Control UI 已实测；**真实模型对话/IM 未验证** |
 
 ## AI短剧
 
