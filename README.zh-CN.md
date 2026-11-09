@@ -24,6 +24,7 @@
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | [cn-deploy-firecrawl](https://github.com/fisheeplife-beep/cn-deploy-firecrawl) | GHCR pull + Compose 起栈 + readiness 已实测；**/v2/scrape 沙箱桥接未跑通** |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [cn-deploy-openclaw](https://github.com/fisheeplife-beep/cn-deploy-openclaw) | GHCR pull + 非交互 onboard + Compose 起 Gateway + healthz/Control UI 已实测；**真实模型对话/IM 未验证** |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | [cn-deploy-n8n](https://github.com/fisheeplife-beep/cn-deploy-n8n) | 钉版本 2.46.4 pull + **SQLite Compose `/healthz`/编辑器已实测**；Postgres+runners 起栈，**桥接 TCP 未跑通**；反代/Webhook/升级清单已文档化 |
+| [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | [cn-deploy-nvke](https://github.com/fisheeplife-beep/cn-deploy-nvke) | 钉 v0.23.1：浅克隆 + CAPNICo download + **nvkectl 已实测**；kind/Tilt/mock-NICo 全栈与裸金属 NICo **未验证**（作者机无 Docker，内存头寸不足 12GiB 空闲） |
 
 ## AI短剧
 
