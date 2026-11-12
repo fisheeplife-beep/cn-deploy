@@ -26,6 +26,7 @@
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | [cn-deploy-n8n](https://github.com/fisheeplife-beep/cn-deploy-n8n) | 钉版本 2.46.4 pull + **SQLite Compose `/healthz`/编辑器已实测**；Postgres+runners 起栈，**桥接 TCP 未跑通**；反代/Webhook/升级清单已文档化 |
 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | [cn-deploy-nvke](https://github.com/fisheeplife-beep/cn-deploy-nvke) | 钉 v0.23.1：浅克隆 + CAPNICo download + **nvkectl 已实测**；kind/Tilt/mock-NICo 全栈与裸金属 NICo **未验证**（作者机无 Docker，内存头寸不足 12GiB 空闲） |
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | [cn-deploy-ruview](https://github.com/fisheeplife-beep/cn-deploy-ruview) | 钉 v3628 / 镜像 sha-a175477：网络探针 + 浅克隆已实测；**Docker 模拟 / ESP32 CSI / HA MQTT 未验证**（作者机无 Docker、无板子） |
+| [openai/codex-security](https://github.com/openai/codex-security) | [cn-deploy-codex-security](https://github.com/fisheeplife-beep/cn-deploy-codex-security) | 钉 npm-v0.9.1 / npm 0.9.1 / GHCR digest sha256:94796146：网络探针 + GHCR 索引 + 浅克隆 + **本地 CLI --version/info 已实测**；**Docker Compose runner 全栈与真实扫描未验证**（作者机无 Docker、无 OpenAI 凭证） |
 
 ## AI短剧
 
