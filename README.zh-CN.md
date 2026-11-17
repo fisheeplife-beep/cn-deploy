@@ -28,6 +28,7 @@
 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | [cn-deploy-ruview](https://github.com/fisheeplife-beep/cn-deploy-ruview) | 钉 v3628 / 镜像 sha-a175477：网络探针 + 浅克隆已实测；**Docker 模拟 / ESP32 CSI / HA MQTT 未验证**（作者机无 Docker、无板子） |
 | [openai/codex-security](https://github.com/openai/codex-security) | [cn-deploy-codex-security](https://github.com/fisheeplife-beep/cn-deploy-codex-security) | 钉 npm-v0.9.1 / npm 0.9.1 / GHCR digest sha256:94796146：网络探针 + GHCR 索引 + 浅克隆 + **本地 CLI --version/info 已实测**；**Docker Compose runner 全栈与真实扫描未验证**（作者机无 Docker、无 OpenAI 凭证） |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [cn-deploy-openbot](https://github.com/fisheeplife-beep/cn-deploy-openbot) | 钉 v1.0.3 / GHCR digest sha256:401e79e56c：网络探针 + GHCR 索引（一体镜像仅 linux/amd64）+ 浅克隆已实测；**Docker 单容器全栈与真实对话未验证**（作者机无 Docker、无 Intelligence / 模型凭证） |
+| [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | [cn-deploy-arcane](https://github.com/fisheeplife-beep/cn-deploy-arcane) | 钉 v3.0.1 / Manager digest sha256:80a2f71c60bc（GHCR=Docker Hub=Quay）：网络探针 + 多注册表索引（含旧别名 `:latest` 冻在 v2.17.3）+ 浅克隆已实测；**Compose 起栈、v2→v3 真实迁移、远程 Agent、反代 WebSocket 未验证**（作者机无 Docker） |
 
 ## AI短剧
 
