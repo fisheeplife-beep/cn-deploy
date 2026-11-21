@@ -29,6 +29,7 @@
 | [openai/codex-security](https://github.com/openai/codex-security) | [cn-deploy-codex-security](https://github.com/fisheeplife-beep/cn-deploy-codex-security) | 钉 npm-v0.9.1 / npm 0.9.1 / GHCR digest sha256:94796146：网络探针 + GHCR 索引 + 浅克隆 + **本地 CLI --version/info 已实测**；**Docker Compose runner 全栈与真实扫描未验证**（作者机无 Docker、无 OpenAI 凭证） |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [cn-deploy-openbot](https://github.com/fisheeplife-beep/cn-deploy-openbot) | 钉 v1.0.3 / GHCR digest sha256:401e79e56c：网络探针 + GHCR 索引（一体镜像仅 linux/amd64）+ 浅克隆已实测；**Docker 单容器全栈与真实对话未验证**（作者机无 Docker、无 Intelligence / 模型凭证） |
 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | [cn-deploy-arcane](https://github.com/fisheeplife-beep/cn-deploy-arcane) | 钉 v3.0.1 / Manager digest sha256:80a2f71c60bc（GHCR=Docker Hub=Quay）：网络探针 + 多注册表索引（含旧别名 `:latest` 冻在 v2.17.3）+ 浅克隆已实测；**Compose 起栈、v2→v3 真实迁移、远程 Agent、反代 WebSocket 未验证**（作者机无 Docker） |
+| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | [cn-deploy-opensre](https://github.com/fisheeplife-beep/cn-deploy-opensre) | 钉 v0.1.2026.11.21：网络探针 + Release 资产校验 + GHCR `:latest` 冻在 0.1.2026.7.28 + 浅克隆 + **CLI --version / account status 已实测**；**Compose 起栈与 `/health`、真实模型对话未验证**（作者机无 Docker；官方 web 默认听 0.0.0.0，脚本拒绝在宿主机启动） |
 
 ## AI短剧
 
